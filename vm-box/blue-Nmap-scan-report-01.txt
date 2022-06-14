@@ -35,3 +35,4 @@ Host script results:
 |_ https://technet.microsoft.com/en-us/library/security/ms17-010.aspx
 
 # Nmap done at Tue Jun 14 22:08:10 2022 -- 1 IP address (1 host up) scanned in 134.70 seconds
+
