@@ -1,4 +1,4 @@
-                                                                                                                                                                                             
+                                                                                                                                                                         ```                   
 ┌──(kali㉿kali)-[~]
 └─$ sudo nmap -sV -vv 192.168.178.129     
 Starting Nmap 7.93 ( https://nmap.org ) at 2023-02-22 07:44 EST
@@ -375,3 +375,4 @@ marlinspike:$6$wQb5nV3T$xB2WO/jOkbn4t1RUILrckw69LR/0EMtUbFFCYpM3MUHVmtyYW9.ov/as
 mysql:!:17486:0:99999:7:::
 sshd:*:17486:0:99999:7:::
 root@vtcsec:/etc# 
+```
